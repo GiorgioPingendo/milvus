@@ -1,0 +1,9 @@
+/ngrok
+/node_modules
+/node_modules/*
+/dist
+.DS_store
+/.idea
+/.angular
+# Local Netlify folder
+.netlify

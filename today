@@ -1,0 +1,16 @@
+ls Sparse Vectors
+esempio su giraffa che rincorre leone.
+non va bene
+nella sparse si tende a rappresentare le parole 1 a 1 
+
+
+spars ok per check sinteax testo 
+ma non funziona x il leggere il significato
+tipo
+hi
+hello
+hallo
+le vedrebbe come 3 parole diverse
+
+
+ su JavaScript, quindi non ha il supporto diretto per l'elaborazione del linguaggio naturale o per il machine learning come Python. Tuttavia, ci sono diverse alternative che possono essere utilizzate per ottenere funzionalità simili.

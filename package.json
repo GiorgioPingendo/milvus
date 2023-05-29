@@ -1,0 +1,16 @@
+{
+  "name": "v",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zilliz/milvus2-sdk-node": "^2.2.10",
+    "flowise": "^1.2.6",
+    "typescript": "^5.0.4"
+  }
+}
